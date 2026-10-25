@@ -1,0 +1,7 @@
+MODELO 2 - EMJ TURISMO
+
+Este ZIP contem a pasta modelo-2 completa. Extraia o ZIP e envie a pasta modelo-2 para a raiz do repositorio e-m-j-turismo.github.io, sem substituir os arquivos do modelo original.
+
+Endereco esperado: https://e-m-j-turismo.github.io/modelo-2/
+
+No GitHub, o upload pelo navegador pode exigir entrar na pasta modelo-2 e arrastar seu conteudo. Mantenha index.html dentro de modelo-2.
